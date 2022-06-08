@@ -1,0 +1,10 @@
+.links {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  margin-top: 46px;
+  padding: 0;
+}
+.links:last-child {
+  margin-right: 48px;
+}
