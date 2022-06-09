@@ -8,3 +8,16 @@
 .links:last-child {
   margin-right: 48px;
 }
+
+@media screen and (max-width: 984px) {
+  .links:last-child {
+    margin-right: 24px;
+  }
+}
+@media screen and (max-width: 568px) {
+  .links:last-child {
+    margin-top: 30px;
+    margin-right: 16px;
+  }
+}
+
