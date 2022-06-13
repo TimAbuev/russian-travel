@@ -1,3 +1,11 @@
 .place__text {
   grid-area: article;
+  margin-top: 48px;
+}
+@media screen and (max-width: 631px) {
+  .place__text {
+    margin-top: 32px;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
 }
