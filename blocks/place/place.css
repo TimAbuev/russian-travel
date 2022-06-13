@@ -1,5 +1,4 @@
 .place {
-  padding: 0 24px;
   display: grid;
   grid-template-areas: 
     "title website"
