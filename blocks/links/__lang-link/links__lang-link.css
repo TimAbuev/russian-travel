@@ -6,9 +6,6 @@
   font-weight: 400;
   line-height: 28px;
 }
-.links__lang-link:hover {
-  text-decoration: underline;
-}
 
 @media screen and (max-width: 568px) {
   .links__lang-link {
