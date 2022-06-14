@@ -3,26 +3,27 @@
   font-size: 18px;
   line-height: 29.34px;
   color: white;
-  margin: 0 0 26px 40px;
+  margin: 0 0 26px 0px;
+  padding-left: 40px;
 }
 .place__paragraph:last-child {
   margin-bottom: 0;
 }
 @media screen and (max-width: 1192px){
   .place__paragraph {
-    /* margin-right: 24px; */
+    padding-left: 32px;
   }
 }
 @media screen and (max-width: 931px){
   .place__paragraph {
     font-size: 16px;
     line-height: 26.08px;
+    padding-left: 28px;
   }
 }
 @media screen and (max-width: 631px) {
   .place__paragraph {
-    margin-left: 0px;
-    margin-right: 0px;
+    padding: 0 16px;
   }
 }
 

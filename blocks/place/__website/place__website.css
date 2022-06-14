@@ -1,13 +1,28 @@
 .place__website {
-  margin: 0 0 0 40px;
   grid-area: website;
   display: flex;
   flex-direction: column;
   justify-content: end;
+  padding-left: 40px;
 }
+
+@media screen and (max-width: 1192px){
+  .place__website {
+    padding-left: 32px;
+  }
+}
+
+@media screen and (max-width: 931px){
+  .place__website {
+    padding-left: 28px;
+  }
+}
+
+
 @media screen and (max-width: 631px) {
   .place__website {
     margin-top: 32px;
     margin-left: 16px;
+    padding-left: 0;
   }
 }
