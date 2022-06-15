@@ -11,6 +11,6 @@
 
 **Github pages**
 
-* [Ссылка на Github pages]()
+* [Ссылка на Github pages](https://timabuev.github.io/russian-travel/)
 
 
