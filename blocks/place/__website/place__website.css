@@ -6,13 +6,13 @@
   padding-left: 40px;
 }
 
-@media screen and (max-width: 1192px){
+@media screen and (max-width: 1192px) {
   .place__website {
     padding-left: 32px;
   }
 }
 
-@media screen and (max-width: 931px){
+@media screen and (max-width: 931px) {
   .place__website {
     padding-left: 28px;
   }

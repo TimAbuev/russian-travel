@@ -1,0 +1,7 @@
+.place__item_part_link {
+  color: white;
+  max-width: max-content;
+}
+.place__item_part_link:hover {
+  opacity: 80%;
+}
