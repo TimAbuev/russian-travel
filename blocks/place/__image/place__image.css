@@ -5,6 +5,12 @@
   grid-area: image;
   margin-top: 48px;
 }
+@media screen and (max-width: 1100px){
+  .place__image {
+    max-width: 440px;
+  }
+}
+
 @media screen and (max-width: 631px) {
   .place__image {
     max-width: 631px;

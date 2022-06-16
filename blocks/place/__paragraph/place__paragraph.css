@@ -8,11 +8,11 @@
 .place__paragraph:last-child {
   margin-bottom: 0;
 }
-@media screen and (max-width: 1192px){
+/* @media screen and (max-width: 1192px){
   .place__paragraph {
     padding-left: 32px;
   }
-}
+} */
 @media screen and (max-width: 931px){
   .place__paragraph {
     font-size: 16px;

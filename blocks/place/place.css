@@ -10,12 +10,11 @@
 .place:first-child {
   margin-top: 0;
 }
-@media screen and (max-width: 1050px){
+/* @media screen and (max-width: 1050px){
   .place {
-    margin-left: 24px;
-    margin-right: 24px;
+    max-height: 440px;
   }
-}
+} */
 @media screen and (max-width: 631px) {
   .place {
     margin-top: 50px;
