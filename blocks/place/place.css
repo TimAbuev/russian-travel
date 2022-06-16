@@ -1,5 +1,5 @@
 .place {
-  max-height: 660px;
+  border: 1px solid blue;
   margin-top: 80px;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -10,16 +10,18 @@
 .place:first-child {
   margin-top: 0;
 }
-/* @media screen and (max-width: 1050px){
+@media screen and (max-width: 968px){
   .place {
-    max-height: 440px;
+    margin-left: 24px;
+    margin-right: 24px;
   }
-} */
+}
 @media screen and (max-width: 631px) {
   .place {
     margin-top: 50px;
     margin-left: 0;
     margin-right: 0;
+    grid-template-columns: 1fr;
     grid-template-areas: 
     "title title"
     "website website"

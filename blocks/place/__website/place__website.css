@@ -3,21 +3,13 @@
   display: flex;
   flex-direction: column;
   justify-content: end;
-}
-/* @media screen and (max-width: 1192px) {
-  .place__website {
-    padding-left: 32px;
-  }
-} */
-@media screen and (max-width: 931px) {
-  .place__website {
-    /* padding-left: 28px; */
-  }
+
+  padding: 0 8px;
 }
 @media screen and (max-width: 631px) {
   .place__website {
     margin-top: 32px;
     margin-left: 16px;
-    padding-left: 0;
+    padding: 0;
   }
 }
