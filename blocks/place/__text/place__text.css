@@ -3,11 +3,11 @@
   margin: auto;
   margin-top: 48px;
 }
-@media screen and (max-width: 968px){ 
+/* @media screen and (max-width: 968px){ 
   .place__text {
     padding-right: 24px;
   }
-}
+} */
 
 @media screen and (max-width: 631px) {
   .place__text {
