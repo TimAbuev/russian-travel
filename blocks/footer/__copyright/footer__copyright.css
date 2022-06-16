@@ -1,4 +1,5 @@
 .footer__copyright {
+  box-sizing: border-box;
   color: white;
   margin: 0 0;
   font-weight: 400;

@@ -1,9 +1,5 @@
 .cover__link {
+  box-sizing: border-box;
   text-decoration: none;
-  margin: 0 auto;
+  margin: 0;
 } 
-@media screen and (max-width: 631px) {
-  .cover__link {
-    max-width: 225px;
-  }
-}

@@ -1,7 +1,9 @@
-.place__item_part_url-heading {
+.place__url-heading {
   color: #AAA;
   font-weight: 400;
   font-size: 12px;
   line-height: 20.4px;
+  letter-spacing: 2px;
   margin: 0;
+  text-transform: uppercase;
 }
