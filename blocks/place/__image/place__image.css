@@ -10,6 +10,11 @@
     max-width: 440px;
   }
 }
+@media screen and (max-width: 968px){
+  .place__image {
+    max-width: 340px;
+  }
+}
 
 @media screen and (max-width: 631px) {
   .place__image {

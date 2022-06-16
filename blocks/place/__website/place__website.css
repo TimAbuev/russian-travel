@@ -11,7 +11,7 @@
 } */
 @media screen and (max-width: 931px) {
   .place__website {
-    padding-left: 28px;
+    /* padding-left: 28px; */
   }
 }
 @media screen and (max-width: 631px) {
