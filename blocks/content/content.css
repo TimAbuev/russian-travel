@@ -1,4 +1,6 @@
 .content {
+  border: 1px solid green;
+
   max-width:1184px;
   margin: auto;
 }

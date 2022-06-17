@@ -3,9 +3,13 @@
   padding: 0;
   display: flex;
   flex-direction: row;
-  margin-top: 46px;
-  margin-bottom: 0;
-  margin-right: 48px;
+  justify-content: flex-end;
+  margin: 46px 0 0;
+}
+@media screen and (max-width: 1188px){
+  .links {
+    margin-right: 48px;
+  }
 }
 @media screen and (max-width: 984px) {
   .links {
